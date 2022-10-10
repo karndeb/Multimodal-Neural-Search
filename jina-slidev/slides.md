@@ -164,3 +164,11 @@ A full-fledged cross-modal/multi-modal system is a combination of the following 
 
 
 ---
+
+<center><h3><strong>Jina Ecosystem</strong></h3></center><br>
+
+<p align="center">
+<img src="/Jina-ecosystem.PNG" class="m-10 h-100" />
+</p>
+
+---
